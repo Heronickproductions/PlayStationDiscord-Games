@@ -1,4 +1,5 @@
 # Popular/Common titles
+CUSA06211_00 # Hatsune Miku: Project DIVA Future Tone
 CUSA07022_00 # Fortnite
 CUSA05042_00 # Destiny 2
 CUSA11100_00 # Black Ops 4
