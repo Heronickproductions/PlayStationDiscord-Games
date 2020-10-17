@@ -1,4 +1,6 @@
 # Popular/Common titles
+
+CUSA18263_00 # AVICII Invector
 CUSA06211_00 # Hatsune Miku: Project DIVA Future Tone
 CUSA07022_00 # Fortnite
 CUSA05042_00 # Destiny 2
