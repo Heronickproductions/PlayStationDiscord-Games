@@ -14,6 +14,7 @@ Games which are supported for [PlayStationDiscord](https://github.com/Tustin/Pla
 
 |                               Icon                               |                           Title                            |
 |------------------------------------------------------------------|------------------------------------------------------------|
+|<img src="ps4/CUSA16429_00.png?raw=true" width="100" height="100">|Sakura Wars                                                 |
 |<img src="ps4/CUSA18263_00.png?raw=true" width="100" height="100">|AVICII Invector                                             |
 |<img src="ps4/CUSA06211_00.png?raw=true" width="100" height="100">|Hatsune Miku: Project DIVA Future Tone                      |
 |<img src="ps4/CUSA07022_00.png?raw=true" width="100" height="100">|Fortnite                                                    |
