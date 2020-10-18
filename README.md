@@ -17,43 +17,13 @@ Games which are supported for [PlayStationDiscord](https://github.com/Tustin/Pla
 |<img src="ps4/CUSA16429_00.png?raw=true" width="100" height="100">|Sakura Wars                                                 |
 |<img src="ps4/CUSA18263_00.png?raw=true" width="100" height="100">|AVICII Invector                                             |
 |<img src="ps4/CUSA06211_00.png?raw=true" width="100" height="100">|Hatsune Miku: Project DIVA Future Tone                      |
-|<img src="ps4/CUSA07022_00.png?raw=true" width="100" height="100">|Fortnite                                                    |
-|<img src="ps4/CUSA05042_00.png?raw=true" width="100" height="100">|Destiny 2                                                   |
-|<img src="ps4/CUSA11100_00.png?raw=true" width="100" height="100">|Call of Duty®: Black Ops 4                                  |
-|<img src="ps4/CUSA05969_00.png?raw=true" width="100" height="100">|Call of Duty®: WWII                                         |
-|<img src="ps4/CUSA04762_00.png?raw=true" width="100" height="100">|Call of Duty®: Infinite Warfare                             |
-|<img src="ps4/CUSA03522_00.png?raw=true" width="100" height="100">|Call of Duty®: Modern Warfare® Remastered                   |
-|<img src="ps4/CUSA02290_00.png?raw=true" width="100" height="100">|Call of Duty®: Black Ops III                                |
-|<img src="ps4/CUSA00803_00.png?raw=true" width="100" height="100">|Call of Duty®: Advanced Warfare                             |
-|<img src="ps4/CUSA00018_00.png?raw=true" width="100" height="100">|Call of Duty® Ghosts                                        |
-|<img src="ps4/CUSA08724_00.png?raw=true" width="100" height="100">|Battlefield™ V                                              |
-|<img src="ps4/CUSA08829_00.png?raw=true" width="100" height="100">|Call of Duty®: Modern Warfare®                              |
-|<img src="ps4/CUSA05770_00.png?raw=true" width="100" height="100">|STAR WARS™ Battlefront™ II                                  |
-|<img src="ps4/CUSA05877_00.png?raw=true" width="100" height="100">|Persona 5                                                   |
-|<img src="ps4/CUSA02299_00.png?raw=true" width="100" height="100">|Marvel's Spider-Man                                         |
-|<img src="ps4/CUSA07408_00.png?raw=true" width="100" height="100">|God of War                                                  |
-|<img src="ps4/CUSA00744_00.png?raw=true" width="100" height="100">|Minecraft                                                   |
-|<img src="ps4/CUSA01163_00.png?raw=true" width="100" height="100">|Rocket League®                                              |
-|<img src="ps4/CUSA03041_00.png?raw=true" width="100" height="100">|Red Dead Redemption 2                                       |
-|<img src="ps4/CUSA01788_00.png?raw=true" width="100" height="100">|Tom Clancy's Rainbow Six® Siege                             |
-|<img src="ps4/CUSA07211_00.png?raw=true" width="100" height="100">|FINAL FANTASY VII REMAKE                                    |
-|<img src="ps4/CUSA14168_00.png?raw=true" width="100" height="100">|RESIDENT EVIL 3                                             |
-|<img src="ps4/CUSA09249_00.png?raw=true" width="100" height="100">|Call of Duty®: Modern Warfare® 2 Campaign Remastered        |
-|<img src="ps4/CUSA12031_00.png?raw=true" width="100" height="100">|KINGDOM HEARTS Ⅲ                                            |
-|<img src="ps4/CUSA15322_00.png?raw=true" width="100" height="100">|Sid Meier's Civilization VI                                 |
-|<img src="ps4/CUSA02320_00.png?raw=true" width="100" height="100">|Uncharted: The Nathan Drake Collection™                     |
-|<img src="ps4/CUSA09311_00.png?raw=true" width="100" height="100">|Assassin's Creed® Odyssey                                   |
-|<img src="ps4/CUSA05933_00.png?raw=true" width="100" height="100">|KINGDOM HEARTS - HD 1.5+2.5 ReMIX -                         |
-|<img src="ps4/CUSA06412_00.png?raw=true" width="100" height="100">|TERA                                                        |
-|<img src="ps4/CUSA15233_00.png?raw=true" width="100" height="100">|Black Desert                                                |
-|<img src="ps4/CUSA00288_00.png?raw=true" width="100" height="100">|FINAL FANTASY XIV                                           |
-|<img src="ps4/CUSA09032_00.png?raw=true" width="100" height="100">|YAKUZA 6: The Song of Life                                  |
-|<img src="ps4/CUSA00003_00.png?raw=true" width="100" height="100">|DRIVECLUB™                                                  |
 |<img src="ps4/CUSA11456_00.png?raw=true" width="100" height="100">|Ghost of Tsushima                                           |
+|<img src="ps4/CUSA00744_00.png?raw=true" width="100" height="100">|Minecraft                                                   |
 |<img src="ps4/CUSA07820_00.png?raw=true" width="100" height="100">|The Last of Us™ Part II                                     |
 |<img src="ps4/CUSA15081_00.png?raw=true" width="100" height="100">|Need for Speed™ Heat                                        |
 |<img src="ps4/CUSA06676_00.png?raw=true" width="100" height="100">|ARK: Survival Evolved                                       |
 |<img src="ps4/CUSA05904_00.png?raw=true" width="100" height="100">|Far Cry® 5                                                  |
+|<img src="ps4/CUSA03041_00.png?raw=true" width="100" height="100">|Red Dead Redemption 2                                       |
 |<img src="ps4/CUSA00419_00.png?raw=true" width="100" height="100">|Grand Theft Auto V                                          |
 |<img src="ps4/CUSA10237_00.png?raw=true" width="100" height="100">|Horizon Zero Dawn: Complete Edition                         |
 |<img src="ps4/CUSA11625_00.png?raw=true" width="100" height="100">|JUMP FORCE                                                  |
@@ -69,10 +39,12 @@ Games which are supported for [PlayStationDiscord](https://github.com/Tustin/Pla
 |<img src="ps4/CUSA04794_00.png?raw=true" width="100" height="100">|Gang Beasts                                                 |
 |<img src="ps4/CUSA14655_00.png?raw=true" width="100" height="100">|DRAGON BALL Z: KAKAROT                                      |
 |<img src="ps4/CUSA14927_00.png?raw=true" width="100" height="100">|eFootball PES 2020                                          |
+|<img src="ps4/CUSA07408_00.png?raw=true" width="100" height="100">|God of War                                                  |
 |<img src="ps4/CUSA09209_00.png?raw=true" width="100" height="100">|The Sims™ 4                                                 |
 |<img src="ps4/CUSA02412_00.png?raw=true" width="100" height="100">|NARUTO SHIPPUDEN™: Ultimate Ninja® STORM 4                  |
 |<img src="ps4/CUSA03220_00.png?raw=true" width="100" height="100">|Gran Turismo®SPORT                                          |
 |<img src="ps4/CUSA10518_00.png?raw=true" width="100" height="100">|The Forest                                                  |
+|<img src="ps4/CUSA01163_00.png?raw=true" width="100" height="100">|Rocket League®                                              |
 |<img src="ps4/CUSA17425_00.png?raw=true" width="100" height="100">|SnowRunner                                                  |
 |<img src="ps4/CUSA16343_00.png?raw=true" width="100" height="100">|Saints Row®: The Third™ Remastered                          |
 |<img src="ps4/CUSA14898_00.png?raw=true" width="100" height="100">|SpongeBob SquarePants: Battle For Bikini Bottom - Rehydrated|
@@ -82,6 +54,7 @@ Games which are supported for [PlayStationDiscord](https://github.com/Tustin/Pla
 |<img src="ps4/CUSA08444_00.png?raw=true" width="100" height="100">|Dead by Daylight                                            |
 |<img src="ps4/CUSA18441_00.png?raw=true" width="100" height="100">|NASCAR Heat 5                                               |
 |<img src="ps4/CUSA11395_00.png?raw=true" width="100" height="100">|Mortal Kombat 11                                            |
+|<img src="ps4/CUSA07211_00.png?raw=true" width="100" height="100">|FINAL FANTASY VII REMAKE                                    |
 |<img src="ps4/CUSA12125_00.png?raw=true" width="100" height="100">|Spyro Reignited Trilogy                                     |
 |<img src="ps4/CUSA14211_00.png?raw=true" width="100" height="100">|GreedFall                                                   |
 |<img src="ps4/CUSA06381_00.png?raw=true" width="100" height="100">|NARUTO SHIPPUDEN™: Ultimate Ninja® STORM 4 ROAD TO BORUTO   |
