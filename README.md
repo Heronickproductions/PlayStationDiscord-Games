@@ -18,7 +18,6 @@ Games which are supported for [PlayStationDiscord](https://github.com/Tustin/Pla
 |<img src="ps4/CUSA18263_00.png?raw=true" width="100" height="100">|AVICII Invector                                             |
 |<img src="ps4/CUSA06211_00.png?raw=true" width="100" height="100">|Hatsune Miku: Project DIVA Future Tone                      |
 |<img src="ps4/CUSA11456_00.png?raw=true" width="100" height="100">|Ghost of Tsushima                                           |
-|<img src="ps4/CUSA00744_00.png?raw=true" width="100" height="100">|Minecraft                                                   |
 |<img src="ps4/CUSA07820_00.png?raw=true" width="100" height="100">|The Last of Us™ Part II                                     |
 |<img src="ps4/CUSA15081_00.png?raw=true" width="100" height="100">|Need for Speed™ Heat                                        |
 |<img src="ps4/CUSA06676_00.png?raw=true" width="100" height="100">|ARK: Survival Evolved                                       |
@@ -71,55 +70,24 @@ Games which are supported for [PlayStationDiscord](https://github.com/Tustin/Pla
 |<img src="ps4/CUSA12611_00.png?raw=true" width="100" height="100">|Divinity: Original Sin 2 - Definitive Edition               |
 |<img src="ps4/CUSA02085_00.png?raw=true" width="100" height="100">|DOOM                                                        |
 |<img src="ps4/CUSA18779_00.png?raw=true" width="100" height="100">|Minecraft Dungeons                                          |
-|<img src="ps4/CUSA05999_00.png?raw=true" width="100" height="100">|Need for Speed™ Payback                                     |
-|<img src="ps4/CUSA03293_00.png?raw=true" width="100" height="100">|Vampyr                                                      |
-|<img src="ps4/CUSA07138_00.png?raw=true" width="100" height="100">|NARUTO SHIPPUDEN™: Ultimate Ninja® STORM 3 Full Burst       |
-|<img src="ps4/CUSA13632_00.png?raw=true" width="100" height="100">|Hollow Knight                                               |
-|<img src="ps4/CUSA14409_00.png?raw=true" width="100" height="100">|Castle Crashers Remastered                                  |
-|<img src="ps4/CUSA00325_00.png?raw=true" width="100" height="100">|Outlast                                                     |
-|<img src="ps4/CUSA13434_00.png?raw=true" width="100" height="100">|Castlevania Requiem: Symphony Of The Night & Rondo Of Blood |
-|<img src="ps4/CUSA13041_00.png?raw=true" width="100" height="100">|Afterparty                                                  |
-|<img src="ps4/CUSA08749_00.png?raw=true" width="100" height="100">|FINAL FANTASY VIII Remastered                               |
-|<img src="ps4/CUSA15481_00.png?raw=true" width="100" height="100">|Contra Anniversary Collection                               |
-|<img src="ps4/CUSA07136_00.png?raw=true" width="100" height="100">|NARUTO™: Ultimate Ninja® STORM                              |
-|<img src="ps4/CUSA15930_00.png?raw=true" width="100" height="100">|Five Nights at Freddy's VR: Help Wanted                     |
-|<img src="ps4/CUSA03955_00.png?raw=true" width="100" height="100">|ARCADE GAME SERIES: PAC-MAN                                 |
-|<img src="ps4/CUSA07137_00.png?raw=true" width="100" height="100">|NARUTO SHIPPUDEN™: Ultimate Ninja® STORM 2                  |
-|<img src="ps4/CUSA16624_00.png?raw=true" width="100" height="100">|Star Wars Jedi Knight II: Jedi Outcast                      |
-|<img src="ps4/CUSA04983_00.png?raw=true" width="100" height="100">|PAC-MAN 256                                                 |
-|<img src="ps4/CUSA16732_00.png?raw=true" width="100" height="100">|PBA Pro Bowling                                             |
-|<img src="ps4/CUSA06840_00.png?raw=true" width="100" height="100">|Stardew Valley                                              |
-|<img src="ps4/CUSA01068_00.png?raw=true" width="100" height="100">|Resident Evil®                                              |
-|<img src="ps4/CUSA06239_00.png?raw=true" width="100" height="100">|The Jackbox Party Pack 3                                    |
-|<img src="ps4/CUSA10507_00.png?raw=true" width="100" height="100">|Remnant: From the Ashes                                     |
-|<img src="ps4/CUSA01671_00.png?raw=true" width="100" height="100">|Devil May Cry 4 Special Edition                             |
-|<img src="ps4/CUSA09929_00.png?raw=true" width="100" height="100">|Outer Wilds                                                 |
-|<img src="ps4/CUSA04587_00.png?raw=true" width="100" height="100">|Dex                                                         |
-|<img src="ps4/CUSA05818_00.png?raw=true" width="100" height="100">|Job Simulator                                               |
-|<img src="ps4/CUSA05929_00.png?raw=true" width="100" height="100">|Little Nightmares                                           |
-|<img src="ps4/CUSA09030_00.png?raw=true" width="100" height="100">|SUPERHOT                                                    |
-|<img src="ps4/CUSA03525_00.png?raw=true" width="100" height="100">|GOD EATER RESURRECTION                                      |
-|<img src="ps4/CUSA03957_00.png?raw=true" width="100" height="100">|ARCADE GAME SERIES: Ms.PAC-MAN                              |
-|<img src="ps4/CUSA10521_00.png?raw=true" width="100" height="100">|Spooky's Jump Scare Mansion: HD Renovation                  |
-|<img src="ps4/CUSA08522_00.png?raw=true" width="100" height="100">|The Jackbox Party Pack 4                                    |
-|<img src="ps4/CUSA00701_00.png?raw=true" width="100" height="100">|Gauntlet™                                                   |
-|<img src="ps4/CUSA03956_00.png?raw=true" width="100" height="100">|ARCADE GAME SERIES: GALAGA                                  |
-|<img src="ps4/CUSA12046_00.png?raw=true" width="100" height="100">|CAPCOM BEAT 'EM UP BUNDLE                                   |
-|<img src="ps4/CUSA02337_00.png?raw=true" width="100" height="100">|Resident Evil 0                                             |
-|<img src="ps4/CUSA04899_00.png?raw=true" width="100" height="100">|Duke Nukem 3D: 20th Anniversary World Tour                  |
-|<img src="ps4/CUSA08325_00.png?raw=true" width="100" height="100">|One Piece Unlimited World Red Deluxe Edition                |
+|<img src="ps4/CUSA20325_00.png?raw=true" width="100" height="100">|Bless Unleashed                                             |
 |<img src="ps4/CUSA23681_00.png?raw=true" width="100" height="100">|Genshin Impact                                              |
 |<img src="ps4/CUSA16753_00.png?raw=true" width="100" height="100">|HYPER SCAPE™                                                |
 |<img src="ps4/CUSA17777_00.png?raw=true" width="100" height="100">|Spellbreak                                                  |
 |<img src="ps4/CUSA17965_00.png?raw=true" width="100" height="100">|eFootball PES 2020 LITE                                     |
-|<img src="ps4/CUSA15429_00.png?raw=true" width="100" height="100">|Dauntless                                                   |
+|<img src="ps4/CUSA18956_00.png?raw=true" width="100" height="100">|Cobra Kai: The Karate Kid Saga Continues                    |
+|<img src="ps4/CUSA19254_00.png?raw=true" width="100" height="100">|Amnesia: Rebirth                                            |
+|<img src="ps4/CUSA16803_00.png?raw=true" width="100" height="100">|9 Monkeys of Shaolin                                        |
+|<img src="ps4/CUSA20607_00.png?raw=true" width="100" height="100">|Raji: An Ancient Epic                                       |
 |<img src="ps4/CUSA19054_00.png?raw=true" width="100" height="100">|Cloudpunk                                                   |
 |<img src="ps4/CUSA18162_00.png?raw=true" width="100" height="100">|Space Crew                                                  |
+|<img src="ps4/CUSA19214_00.png?raw=true" width="100" height="100">|The Jackbox Party Pack 7                                    |
+|<img src="ps4/CUSA17207_00.png?raw=true" width="100" height="100">|Monster Prom: XXL                                           |
 |<img src="ps4/CUSA25151_00.png?raw=true" width="100" height="100">|Halloween Candy Break                                       |
 |<img src="ps4/CUSA16629_00.png?raw=true" width="100" height="100">|Ben 10: Power Trip                                          |
 |<img src="ps4/CUSA16273_00.png?raw=true" width="100" height="100">|The Survivalists                                            |
-|<img src="ps4/CUSA24892_00.png?raw=true" width="100" height="100">|Call of Duty®: Black Ops Cold War - Beta                    |
 |<img src="ps4/CUSA17787_00.png?raw=true" width="100" height="100">|9th Dawn III                                                |
+|<img src="ps4/CUSA20457_00.png?raw=true" width="100" height="100">|Foregone                                                    |
 |<img src="ps4/CUSA15080_00.png?raw=true" width="100" height="100">|STAR WARS™: Squadrons                                       |
 |<img src="ps4/CUSA15147_00.png?raw=true" width="100" height="100">|Rogue Company                                               |
 |<img src="ps4/CUSA19505_00.png?raw=true" width="100" height="100">|Swordbreaker The Game                                       |
@@ -127,9 +95,3 @@ Games which are supported for [PlayStationDiscord](https://github.com/Tustin/Pla
 |<img src="ps4/CUSA09586_00.png?raw=true" width="100" height="100">|World of Van Helsing: Deathtrap                             |
 |<img src="ps4/CUSA23426_00.png?raw=true" width="100" height="100">|Birthday Of Midnight                                        |
 |<img src="ps4/CUSA20051_00.png?raw=true" width="100" height="100">|Panzer Dragoon: Remake                                      |
-|<img src="ps4/CUSA19106_00.png?raw=true" width="100" height="100">|Going Under                                                 |
-|<img src="ps4/CUSA20431_00.png?raw=true" width="100" height="100">|Unrailed!                                                   |
-|<img src="ps4/CUSA19610_00.png?raw=true" width="100" height="100">|13 Sentinels: Aegis Rim                                     |
-|<img src="ps4/CUSA20605_00.png?raw=true" width="100" height="100">|Rebel Galaxy Outlaw                                         |
-|<img src="ps4/CUSA23428_00.png?raw=true" width="100" height="100">|Tamiku                                                      |
-|<img src="ps4/CUSA19254_00.png?raw=true" width="100" height="100">|Amnesia: Rebirth                                            |
