@@ -1,8 +1,8 @@
 import base64, requests, os
 
 API_ENDPOINT = 'https://discordapp.com/api/v6'
-TOKEN = os.environ['7u7jHrxUS4jQ9NE2d9jguAA4Vgq9ohXm']
-CLIENT_ID = '767226727042121758'
+TOKEN = os.environ['8pG2jl7aaJwpbSzGTR0x-w82RhCEo1KF']
+CLIENT_ID = '551810032564436992'
 
 def get_assets():
     r = requests.get('%s/oauth2/applications/%s/assets' % (API_ENDPOINT, CLIENT_ID), headers={'Authorization': '%s' % TOKEN})
