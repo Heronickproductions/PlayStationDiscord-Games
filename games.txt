@@ -2,3 +2,4 @@
 CUSA16429_00 # Sakura Wars
 CUSA18263_00 # AVICII Invector
 CUSA06211_00 # Hatsune Miku: Project DIVA Future Tone
+CUSA11106_00 # Taiko no Tatsujin: Drum Session!

@@ -5,7 +5,6 @@ mbstrdecoder==0.8.1
 mccabe==0.6.1
 msgfy==0.0.7
 pathvalidate==0.29.0
-post==2019.4.13
 public==2019.4.13
 pylint==2.3.1
 pytablewriter==0.46.1
